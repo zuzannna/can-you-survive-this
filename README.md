@@ -7,7 +7,9 @@ All you need to learn/teach basics of survival analysis. Presentation &amp; samp
 
 ## Example Notebooks 
 
-There are 2 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. See `Dependencies and requirements` section at the end for installation tips.
+There are 2 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
+
+See `Dependencies and requirements` section at the end for installation tips.
 
 ### Survival Analysis Example
 
@@ -30,3 +32,5 @@ The notebooks also use software for making visualizations, such as `seaborn`:
 Alternatively, you could use `pip install` to get all the packages once you clone the repo and type:
 
 ```pip install -r requirements.txt```
+
+Finally, if you're new to Jupyter Notebooks, go [here](http://jupyter.org) to read the docs.
