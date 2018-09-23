@@ -1,5 +1,5 @@
 # Can you survive this workshop? Brief introduction to survival analysis.
-(Marianne Hoogeveen)[https://github.com/marianneke], (Zuzanna Klyszejko)[https://github.com/zuzannna]
+[Marianne Hoogeveen](https://github.com/marianneke), [Zuzanna Klyszejko](https://github.com/zuzannna)
 
 All you need to learn/teach basics of survival analysis. Presentation &amp; sample analysis included. Originally delivered at Grace Hopper Celebration in Houston, 09/27/2018 #GHC2018👩🏾‍💻
 
