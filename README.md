@@ -1,11 +1,8 @@
 # Can you survive this workshop? Brief introduction to survival analysis.
-[Marianne Hoogeveen](https://github.com/marianneke), [Zuzanna Klyszejko](https://github.com/zuzannna)
+Co-authored by [Marianne Hoogeveen](https://github.com/marianneke) and [Zuzanna Klyszejko](https://github.com/zuzannna)
 
-All you need to learn/teach basics of survival analysis. Presentation &amp; sample analysis included. Originally delivered at Grace Hopper Celebration in Houston, 09/27/2018 #GHC2018👩🏾‍💻
+All you need to learn/teach basics of survival analysis. Deck & Python code with simulations, examples and more. Workshop originally delivered at Grace Hopper Celebration #GHC2018🌈👩🏾‍💻
 
-Conference Abstract:
-```Recent years have seen a proliferation of algorithms to address tough data-related questions. However, in practice a model with clear interpretation is often preferable over a complex one. In this workshop we invite you to experiment with survival analysis to understand why is it used to predict phenomena such as lifetime of patients in healthcare, failure of computer chips and customer churn.
-```
 
 ## Example Notebooks 
 
