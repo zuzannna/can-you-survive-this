@@ -7,7 +7,17 @@ All you need to learn/teach basics of survival analysis. Presentation &amp; samp
 
 ## Example Notebooks 
 
-There are 2 notebooks containing more details on concepts that were touched on during the workshop. In order to run them:
+There are 2 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. See `Dependencies and requirements` section at the end for installation tips.
+
+### Survival Analysis Example
+
+The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysisExample.ipynb) introduces several standard computational methods in survival analysis that are used to determine the effect of diverse factors on survival. For example, the Cox Proportional Hazards model is used on sample data with the `lifelines` package in Python.
+
+### Censored survival data
+
+The notebook [`censored_survival_data.ipynb`](example_notebooks/censored_survival_data.ipynb) illustrates the effect of having censored data, and why simply removing censored data is not the right thing to do.
+
+## Dependencies and requirements
 
 If you have [Anaconda](https://docs.anaconda.com/anaconda/install/) (or [Miniconda](https://conda.io/docs/glossary.html#miniconda-glossary)) installed:
 
@@ -18,12 +28,5 @@ The notebooks also use software for making visualizations, such as `seaborn`:
 ```conda install seaborn```
 
 Alternatively, you could use `pip install` to get all the packages once you clone the repo and type:
+
 ```pip install -r requirements.txt```
-
-### Survival Analysis Example
-
-The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysisExample.ipynb) introduces several standard computational methods in survival analysis that are used to determine the effect of diverse factors on survival. For example, the Cox Proportional Hazards model is used on sample data with the `lifelines` package in Python.
-
-### Censored survival data
-
-The notebook [`censored_survival_data.ipynb`](example_notebooks/censored_survival_data.ipynb) illustrates the effect of having censored data, and why simply removing censored data is not the right thing to do.
