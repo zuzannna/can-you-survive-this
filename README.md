@@ -7,13 +7,18 @@ All you need to learn/teach basics of survival analysis. Presentation &amp; samp
 
 ## Example Notebooks 
 
-There are 2 notebooks containing more details on concepts that were touched on during the workshop. In order to run them, you need to have [Anaconda](https://docs.anaconda.com/anaconda/install/) (or [Miniconda](https://conda.io/docs/glossary.html#miniconda-glossary)) installed.
+There are 2 notebooks containing more details on concepts that were touched on during the workshop. In order to run them:
 
-After that is done, you'll need to install the `lifelines` package:
+If you have [Anaconda](https://docs.anaconda.com/anaconda/install/) (or [Miniconda](https://conda.io/docs/glossary.html#miniconda-glossary)) installed:
+
+You'll need to install the `lifelines` package by typing the following comman in your command line (after cloning the repo and `cd` to the main repo directory):
 ```conda install -c conda-forge lifelines```
 
 The notebooks also use software for making visualizations, such as `seaborn`:
 ```conda install seaborn```
+
+Alternatively, you could use `pip install` to get all the packages once you clone the repo and type:
+```pip install -r requirements.txt```
 
 ### Survival Analysis Example
 
