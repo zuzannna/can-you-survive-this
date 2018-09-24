@@ -19,7 +19,7 @@ The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysi
 The notebook [`CensoredSurvivalData.ipynb`](example_notebooks/CensoredSurvivalData.ipynb) illustrates the effect of having censored data, and why simply removing censored data is not the right thing to do.
 
 ### Survivorship Bias
-The notebook [`SurvivorshipBoas.ipynb`](example_notebooks/SurvivorshipBias.ipynb) illustrates the reverse problem with censored data: when _only_ censored observations are considered using an example of two gamblers with different strategies (high and low risk).
+The notebook [`SurvivorshipBias.ipynb`](example_notebooks/SurvivorshipBias.ipynb) illustrates the reverse problem with censored data: when _only_ censored observations are considered using an example of two gamblers with different strategies (high and low risk).
 
 ## Dependencies and requirements
 
