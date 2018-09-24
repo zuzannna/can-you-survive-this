@@ -6,7 +6,7 @@ All you need to learn/teach basics of survival analysis. Deck & Python code with
 
 ## Example Notebooks 
 
-There are 2 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
+There are 3 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
 
 See `Dependencies and requirements` section at the end for installation tips.
 
@@ -16,7 +16,10 @@ The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysi
 
 ### Censored survival data
 
-The notebook [`censored_survival_data.ipynb`](example_notebooks/censored_survival_data.ipynb) illustrates the effect of having censored data, and why simply removing censored data is not the right thing to do.
+The notebook [`CensoredSurvivalData.ipynb`](example_notebooks/CensoredSurvivalData.ipynb) illustrates the effect of having censored data, and why simply removing censored data is not the right thing to do.
+
+### Survivorship Bias
+The notebook [`SurvivorshipBoas.ipynb`](example_notebooks/SurvivorshipBias.ipynb) illustrates the reverse problem with censored data: when _only_ censored observations are considered using an example of two gamblers with different strategies (high and low risk).
 
 ## Dependencies and requirements
 
