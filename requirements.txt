@@ -1,0 +1,11 @@
+
+# Requirements for can-you-survive-this.
+# To use type: pip install -r requirements.txt
+
+## Requirements without Version specifiers
+
+numpy
+pandas
+matplotlib
+seaborn
+lifelines
