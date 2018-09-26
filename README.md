@@ -6,13 +6,17 @@ All you need to learn/teach basics of survival analysis. Deck & Python code with
 
 ## Example Notebooks 
 
-There are 3 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
+There are 4 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
 
 See `Dependencies and requirements` section at the end for installation tips.
 
 ### Survival Analysis Example
 
 The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysisExample.ipynb) introduces several standard computational methods in survival analysis that are used to determine the effect of diverse factors on survival. For example, the Cox Proportional Hazards model is used on sample data with the `lifelines` package in Python.
+
+### Survival Function and Hazard Rate
+
+The notebook [`SurvivalFunctionAndHazardRate.ipynb`](example_notebooks/SurvivalFunctionAndHazardRate.ipynb) shows the relationship between several important functions related to probability distributions one encounters for instance in survival analysis: the survival function, the hazard rate, the probability density function, and the cumulative density function.
 
 ### Censored survival data
 
