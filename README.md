@@ -31,7 +31,7 @@ The notebook [`CensoredSurvivalData.ipynb`](example_notebooks/CensoredSurvivalDa
 The notebook [`SurvivorshipBias.ipynb`](example_notebooks/SurvivorshipBias.ipynb) illustrates the reverse problem with censored data: when _only_ censored observations are considered using an example of two gamblers with different strategies (high and low risk).
 
 ### Blinking Experiment Results
-The notebook [`BlinkingExperimentResults.ipynb`](example_notebooks/BlinkingExperimentResults.ipynb) contains code to help you analyze the time-before-you-blink data collected during the workshop. This data was uploaded in the `data` folder.
+The notebook [`BlinkingExperimentResults.ipynb`](example_notebooks/BlinkingExperimentResults.ipynb) contains code to help you analyze the time-before-you-blink data collected during the workshop. This data was uploaded in the [`data`](data/) folder.
 
 ## Dependencies and requirements
 
