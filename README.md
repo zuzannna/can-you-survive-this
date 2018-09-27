@@ -3,6 +3,10 @@ Co-authored by [Marianne Hoogeveen](https://github.com/marianneke) and [Zuzanna 
 
 All you need to learn/teach basics of survival analysis. Deck & Python code with simulations, examples and more. Workshop originally delivered at Grace Hopper Celebration #GHC2018🌈👩🏾‍💻
 
+## Presentation
+
+The slides for the presentation we gave at GHC'18 can be found in the [`presentaton`](presentation/) folder, under [`GHC18_survival_workshop.pdf`](presentation/GHC18_survival_workshop.pdf)
+
 ## Handouts
 
 There are 2 handouts that were given out during the workshop; they can be found in the `handouts` folder:
