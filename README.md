@@ -11,7 +11,7 @@ There are 2 handouts that were given out during the workshop; they can be found 
 
 ## Example Notebooks 
 
-There are 4 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
+There are 5 notebooks containing more details on concepts that were touched on during the workshop. You can view them in the browser but we encourage you to download them and play with numbers yourself. Here are some ideas you could start with: change distribution properties, add random (or not so random!) noise or use a completely different dataset. For example, there were [many datasets distributed with R package](http://vincentarelbundock.github.io/Rdatasets/) which you could use to play with Cox Proportional Hazards Model or to plot Kaplan-Meier curve. 
 
 See `Dependencies and requirements` section at the end for installation tips.
 
@@ -29,6 +29,9 @@ The notebook [`CensoredSurvivalData.ipynb`](example_notebooks/CensoredSurvivalDa
 
 ### Survivorship Bias
 The notebook [`SurvivorshipBias.ipynb`](example_notebooks/SurvivorshipBias.ipynb) illustrates the reverse problem with censored data: when _only_ censored observations are considered using an example of two gamblers with different strategies (high and low risk).
+
+### Blinking Experiment Results
+The notebook [`BlinkingExperimentResults.ipynb`](example_notebooks/BlinkingExperimentResults.ipynb) contains code to help you analyze the time-before-you-blink data collected during the workshop. This data was uploaded in the `data` folder.
 
 ## Dependencies and requirements
 
