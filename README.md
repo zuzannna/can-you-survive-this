@@ -3,6 +3,11 @@ Co-authored by [Marianne Hoogeveen](https://github.com/marianneke) and [Zuzanna 
 
 All you need to learn/teach basics of survival analysis. Deck & Python code with simulations, examples and more. Workshop originally delivered at Grace Hopper Celebration #GHC2018🌈👩🏾‍💻
 
+## Handouts
+
+There are 2 handouts that were given out during the workshop; they can be found in the `handouts` folder:
+1. [`Breakout_Activity__Censoring.pdf`](handouts/Breakout_Activity__Censoring.pdf) asks the participants to classify several situations as either right censoring, left cenoring, or something else
+1. [`Breakout_Activity__Blinking_Experiment.pdf`](handouts/Breakout_Activity__Blinking_Experiment.pdf) asks participants to perform an experiment in which one person tries go go as long as possible without blinking, and the experimenter notes their time in seconds, and whether they have any eyewear (contact lenses or glasses) or not.
 
 ## Example Notebooks 
 
