@@ -12,7 +12,7 @@ See `Dependencies and requirements` section at the end for installation tips.
 
 ### Survival Analysis Example
 
-The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysisExample.ipynb) introduces several standard computational methods in survival analysis that are used to determine the effect of diverse factors on survival. For example, the Cox Proportional Hazards model is used on sample data with the `lifelines` package in Python.
+The notebook [`SurvivalAnalysisExample.ipynb`](example_notebooks/SurvivalAnalysisExample.ipynb) introduces several standard computational methods in survival analysis that are used to determine the effect of diverse factors on survival. For example, we used log rank test and Cox Proportional Hazards model on sample data set with the `lifelines` package in Python.
 
 ### Survival Function and Hazard Rate
 
